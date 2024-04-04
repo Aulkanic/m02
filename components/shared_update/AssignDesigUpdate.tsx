@@ -79,8 +79,6 @@ const AssignUpdate = ({ assignDesignation }: { assignDesignation: any }) => {
 
 export default AssignUpdate;
 
-// "use client"
-
 // import { updateAssign } from "@/app/actions/todoActions"
 // import Form from "@/components/ui/Form"
 // import Input from "@/components/ui/Input"
